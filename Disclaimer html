@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Disclaimer | Uncut Series</title>
+
+<style>
+body{
+  margin:0;
+  background:#080808;
+  color:#eee;
+  font-family:Arial,sans-serif;
+  line-height:1.7;
+}
+.container{
+  max-width:900px;
+  margin:auto;
+  padding:30px 20px 60px;
+}
+h1{
+  color:#e50914;
+  font-size:34px;
+}
+h2{
+  margin-top:30px;
+}
+p{
+  color:#bbb;
+}
+.back{
+  display:inline-block;
+  margin-bottom:25px;
+  padding:10px 16px;
+  background:#e50914;
+  color:#fff;
+  text-decoration:none;
+  border-radius:6px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<a class="back" href="index.html">← Back to Home</a>
+
+<h1>Disclaimer</h1>
+
+<h2>General Information</h2>
+
+<p>
+Uncut Series is an entertainment and informational website.
+The information presented on this website is provided for
+general informational purposes only.
+</p>
+
+<h2>Third-Party Content</h2>
+
+<p>
+This website may contain links to third-party websites,
+platforms or services. We do not control or guarantee the
+content, availability or policies of third-party websites.
+</p>
+
+<h2>Copyright</h2>
+
+<p>
+We respect intellectual-property rights. If you believe that
+content displayed on this website infringes your copyright,
+please contact the website administrator with appropriate
+details so the matter can be reviewed.
+</p>
+
+<h2>External Links</h2>
+
+<p>
+Links to external websites are provided for convenience.
+Visiting third-party websites is done at the user's own risk.
+</p>
+
+<h2>Age Requirement</h2>
+
+<p>
+This website is intended for adults who meet the applicable
+minimum age requirement. Users are responsible for complying
+with the laws applicable to them.
+</p>
+
+<h2>Advertising</h2>
+
+<p>
+Advertisements, if displayed, may be provided by third-party
+advertising services. The presence of an advertisement does
+not constitute an endorsement of the advertised product or
+service.
+</p>
+
+<h2>Changes</h2>
+
+<p>
+This Disclaimer may be updated from time to time without prior
+notice. Changes will be published on this page.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+For questions or copyright concerns, please contact the website
+administrator using the contact information provided on the
+website.
+</p>
+
+<p>
+Last updated: August 2026
+</p>
+
+</div>
+
+</body>
+</html>
